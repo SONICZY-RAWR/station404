@@ -1,12 +1,1 @@
-[2026-05-17 07:25:19] COMMAND: xsstrike -u ntandroid.com
-[2026-05-17 07:25:19] Command completed successfully
-[2026-05-17 07:26:21] COMMAND: xsstrike -u ntandroid.com
-[2026-05-17 07:26:32] Command completed successfully
-[2026-05-18 06:38:43] COMMAND: msfconsole -q -x 'use auxiliary/scanner/smb/smb_ms17_010; set RHOSTS 8.8.8.8; run; exit'
-[2026-05-18 06:39:47] Command completed successfully
-[2026-05-18 07:01:52] COMMAND: whois 192.168.0.10
-[2026-05-18 07:01:52] Command completed successfully
-[2026-05-18 07:02:49] COMMAND: whois 192.168.0.1
-[2026-05-18 07:02:50] Command completed successfully
-[2026-05-18 07:06:51] COMMAND: nmap -sV -sC -T4 192.168.0.1
-[2026-05-18 07:07:23] Command completed successfully
+
