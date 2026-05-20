@@ -290,21 +290,6 @@ This framework is intended strictly for:
 
 The developer is not responsible for misuse or illegal activities.
 
----
-
-# 🛣 Future Plans
-
-- [ ] Plugin system
-- [ ] AI-assisted modules
-- [ ] Workspace manager
-- [ ] Built-in reporting
-- [ ] Session recovery
-- [ ] Theme customization
-- [ ] Multi-user underground nodes
-- [ ] Remote operation support
-
----
-
 # 👤 Developer
 
 ## SONICZY
